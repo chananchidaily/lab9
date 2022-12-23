@@ -18,7 +18,7 @@ char findGrade(double x){
 		g = 'F';
 	return g;
 }
-
+ 
 int main(){
 	//Input the number of students
 	int N,i = 0;
